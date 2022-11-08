@@ -18,7 +18,7 @@ img{
 }
 
 .typo{
-    padding: 510px 0px;
+    padding: 700px 0px;
     animation: slide 3s ease-in-out;
 }
 
@@ -32,12 +32,12 @@ h1{
 
 @keyframes slide {
     from{
-        padding: 400px 0px;
+        padding: 500px 0px;
         opacity: 0;
 
     }
     to{
-        padding: 510px 0px;
+        padding: 700px 0px;
         opacity: 1;
     }
 }
