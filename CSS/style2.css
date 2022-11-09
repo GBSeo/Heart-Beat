@@ -18,7 +18,7 @@ img{
 }
 
 .typo{
-    padding: 33vh 0px;
+    padding: 37vh 0px;
     animation: slide 3s ease-in-out;
 }
 
@@ -37,7 +37,7 @@ h1{
 
     }
     to{
-        padding: 33vh 0px;
+        padding: 37vh 0px;
         opacity: 1;
     }
 }
